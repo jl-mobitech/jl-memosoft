@@ -73,7 +73,7 @@ jobs:
           plugin_languages_recent_load: 500                             # Load up to 500 events to compute recently used stats
           plugin_languages_recent_days: 7                               # Limit recently used stats to last week
           commits_authoring: echo_lumaque@memosoft.jp           # Surnames or email addresses used to identify your commits
-          plugin_lines: yesplugin_notable: yes
+          plugin_lines: yes
           plugin_notable_filter: stars:>0 # Only display repositories with 500 stars or more (syntax based on GitHub search query)
           plugin_notable_from: organization # Only display contributions within organization repositories
           plugin_notable_repositories: yes  # Display repositories name instead of only organization name
