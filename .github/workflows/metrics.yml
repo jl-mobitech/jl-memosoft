@@ -96,24 +96,7 @@ jobs:
           plugin_reactions_details: count, percentage  # Display reactions count and percentage
           plugin_reactions_ignored: bot                # Ignore "bot" user
           plugin_repositories: yes
-          plugin_repositories_featured: Memosoft-Japan/Spelling1, Memosoft-Japan/Money1, Memosoft-Japan/Azure-App, Memosoft-Japan/Azure-Functions, Memosoft-Japan/Azure-Tracking-Excel, 
-          plugin_skyline: yes
-          plugin_skyline_year: 0            # Set to 0 to display current year
-          plugin_skyline_frames: 60         # Use 60 frames (half-loop)
-          plugin_skyline_quality: 1.0       # Set image quality
-          plugin_skyline_compatibility: yes # Support additional browsers (⚠️ increases file size and reduce optimization)
+          plugin_repositories_featured: Memosoft-Japan/Spelling1, Memosoft-Japan/Money1, Memosoft-Japan/Azure-App, Memosoft-Japan/Azure-Functions, Memosoft-Japan/Azure-Tracking-Excel
           plugin_stars: yes
           plugin_stars_limit: 100
           plugin_traffic: yes
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
