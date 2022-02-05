@@ -502,9 +502,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="375.64758838897353" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="375.64758838897353" y="0" width="55.82219495550393" height="8" fill="#ff9900"/>
-                    <rect mask="url(#languages-bar)" x="431.46978334447743" y="0" width="28.530216655522544" height="8" fill="#0060ac"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.6881628120092" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="376.6881628120092" y="0" width="55.175052207357744" height="8" fill="#ff9900"/>
+                    <rect mask="url(#languages-bar)" x="431.863215019367" y="0" width="28.136784980633028" height="8" fill="#0060ac"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -516,8 +516,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>236 kB</div>
-                                <div>81.66%</div>
+                                <div>240 kB</div>
+                                <div>81.89%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -528,8 +528,8 @@
                                 XML
                             </div>
                             <small>
-                                <div>18 kB</div>
-                                <div>6.2%</div>
+                                <div>17.9 kB</div>
+                                <div>6.12%</div>
                             </small>
                         </div>
                     </section>
@@ -543,7 +543,7 @@
                             </div>
                             <small>
                                 <div>35.2 kB</div>
-                                <div>12.14%</div>
+                                <div>11.99%</div>
                             </small>
                         </div>
                     </section>
@@ -1023,11 +1023,6 @@
                 <section class="column chart">
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
-                        <div class="entry">
-                            <span class="name">C#</span>
-                            <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">100%</span>
-                        </div>
                     </div>
                 </section>
             </div>
@@ -1616,7 +1611,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Feb 2022, 13:09:46 (timezone Asia/Manila) with lowlighter/metrics@3.19.0</span>
+                <span>Last updated 5 Feb 2022, 14:11:45 (timezone Asia/Manila) with lowlighter/metrics@3.19.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
