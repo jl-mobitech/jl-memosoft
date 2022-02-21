@@ -502,8 +502,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="408.875358840416" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="408.875358840416" y="0" width="51.12464115958398" height="8" fill="#0060ac"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="410.3948482730006" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="410.3948482730006" y="0" width="49.605151726999395" height="8" fill="#0060ac"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -515,8 +515,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>151 kB</div>
-                                <div>88.89%</div>
+                                <div>156 kB</div>
+                                <div>89.22%</div>
                             </small>
                         </div>
                     </section>
@@ -529,8 +529,8 @@
                                 XML
                             </div>
                             <small>
-                                <div>18.8 kB</div>
-                                <div>11.11%</div>
+                                <div>18.9 kB</div>
+                                <div>10.78%</div>
                             </small>
                         </div>
                     </section>
@@ -1522,7 +1522,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Feb 2022, 17:13:43 (timezone Asia/Manila) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 21 Feb 2022, 18:14:19 (timezone Asia/Manila) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
