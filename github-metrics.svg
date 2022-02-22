@@ -502,8 +502,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="417.4198833312647" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="417.4198833312647" y="0" width="42.58011666873526" height="8" fill="#0060ac"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="417.05351181733204" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="417.05351181733204" y="0" width="42.94648818266791" height="8" fill="#0060ac"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -515,8 +515,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>109 kB</div>
-                                <div>90.74%</div>
+                                <div>108 kB</div>
+                                <div>90.66%</div>
                             </small>
                         </div>
                     </section>
@@ -530,7 +530,7 @@
                             </div>
                             <small>
                                 <div>11.1 kB</div>
-                                <div>9.26%</div>
+                                <div>9.34%</div>
                             </small>
                         </div>
                     </section>
@@ -965,6 +965,11 @@
                 <section class="column chart">
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
+                        <div class="entry">
+                            <span class="name">C#</span>
+                            <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">100%</span>
+                        </div>
                     </div>
                 </section>
             </div>
@@ -1566,7 +1571,7 @@ Hope it helps.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Feb 2022, 06:12:21 (timezone Asia/Manila) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 23 Feb 2022, 07:13:14 (timezone Asia/Manila) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
