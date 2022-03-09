@@ -502,8 +502,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="298.3291991958015" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="298.3291991958015" y="0" width="161.67080080419854" height="8" fill="#0060ac"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="302.2403403951743" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="302.2403403951743" y="0" width="157.75965960482566" height="8" fill="#0060ac"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -515,8 +515,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>49.6 kB</div>
-                                <div>64.85%</div>
+                                <div>51.5 kB</div>
+                                <div>65.7%</div>
                             </small>
                         </div>
                     </section>
@@ -530,7 +530,7 @@
                             </div>
                             <small>
                                 <div>26.9 kB</div>
-                                <div>35.15%</div>
+                                <div>34.3%</div>
                             </small>
                         </div>
                     </section>
@@ -1557,7 +1557,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Mar 2022, 22:12:32 (timezone Asia/Manila) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 9 Mar 2022, 23:13:15 (timezone Asia/Manila) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
