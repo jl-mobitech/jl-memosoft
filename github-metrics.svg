@@ -502,8 +502,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="290.4730109727058" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="290.4730109727058" y="0" width="169.52698902729415" height="8" fill="#0060ac"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="290.45475216007276" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="290.45475216007276" y="0" width="169.54524783992724" height="8" fill="#0060ac"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -516,7 +516,7 @@
                             </div>
                             <small>
                                 <div>52.7 kB</div>
-                                <div>63.15%</div>
+                                <div>63.14%</div>
                             </small>
                         </div>
                     </section>
@@ -530,7 +530,7 @@
                             </div>
                             <small>
                                 <div>30.8 kB</div>
-                                <div>36.85%</div>
+                                <div>36.86%</div>
                             </small>
                         </div>
                     </section>
@@ -1557,7 +1557,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Mar 2022, 02:15:22 (timezone Asia/Manila) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 11 Mar 2022, 03:10:21 (timezone Asia/Manila) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
