@@ -502,8 +502,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="403.9731011467142" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="403.9731011467142" y="0" width="56.02689885328582" height="8" fill="#0060ac"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="403.85513139070855" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="403.85513139070855" y="0" width="56.144868609291464" height="8" fill="#0060ac"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -515,8 +515,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>35 kB</div>
-                                <div>87.82%</div>
+                                <div>34.9 kB</div>
+                                <div>87.79%</div>
                             </small>
                         </div>
                     </section>
@@ -529,8 +529,8 @@
                                 XML
                             </div>
                             <small>
-                                <div>4.85 kB</div>
-                                <div>12.18%</div>
+                                <div>4.86 kB</div>
+                                <div>12.21%</div>
                             </small>
                         </div>
                     </section>
@@ -1569,7 +1569,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Mar 2022, 15:12:54 (timezone Asia/Manila) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 24 Mar 2022, 16:16:09 (timezone Asia/Manila) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
