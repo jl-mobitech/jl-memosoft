@@ -502,8 +502,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="292.4989926511503" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="292.4989926511503" y="0" width="167.5010073488497" height="8" fill="#0060ac"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="292.44515670882674" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="292.44515670882674" y="0" width="167.55484329117326" height="8" fill="#0060ac"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -516,7 +516,7 @@
                             </div>
                             <small>
                                 <div>66.2 kB</div>
-                                <div>63.59%</div>
+                                <div>63.58%</div>
                             </small>
                         </div>
                     </section>
@@ -530,7 +530,7 @@
                             </div>
                             <small>
                                 <div>37.9 kB</div>
-                                <div>36.41%</div>
+                                <div>36.42%</div>
                             </small>
                         </div>
                     </section>
@@ -1601,7 +1601,7 @@ Can you please verify on your side? Thanks</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Apr 2022, 03:11:13 (timezone Asia/Manila) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 8 Apr 2022, 04:14:39 (timezone Asia/Manila) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
