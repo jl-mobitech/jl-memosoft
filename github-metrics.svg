@@ -502,9 +502,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="324.03432492405443" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="324.03432492405443" y="0" width="123.1405012814529" height="8" fill="#0060ac"/>
-                    <rect mask="url(#languages-bar)" x="447.1748262055074" y="0" width="12.825173794492617" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="324.0487964630752" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="324.0487964630752" y="0" width="123.12739479286066" height="8" fill="#0060ac"/>
+                    <rect mask="url(#languages-bar)" x="447.1761912559358" y="0" width="12.823808744064188" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -517,7 +517,7 @@
                             </div>
                             <small>
                                 <div>86 kB</div>
-                                <div>70.44%</div>
+                                <div>70.45%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1614,7 +1614,7 @@ Can you please verify on your side? Thanks</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Apr 2022, 10:27:06 (timezone Asia/Manila) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 16 Apr 2022, 11:24:14 (timezone Asia/Manila) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
