@@ -502,10 +502,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="271.1209889564852" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="271.1209889564852" y="0" width="104.29485368441539" height="8" fill="#0060ac"/>
-                    <rect mask="url(#languages-bar)" x="375.41584264090056" y="0" width="74.75046930229345" height="8" fill="#ff9900"/>
-                    <rect mask="url(#languages-bar)" x="450.166311943194" y="0" width="9.833688056805983" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="271.13403226819014" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="271.13403226819014" y="0" width="104.28765145332413" height="8" fill="#0060ac"/>
+                    <rect mask="url(#languages-bar)" x="375.4216837215143" y="0" width="74.74530730114886" height="8" fill="#ff9900"/>
+                    <rect mask="url(#languages-bar)" x="450.1669910226631" y="0" width="9.833008977336933" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1627,7 +1627,7 @@ Can you please verify on your side? Thanks</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Apr 2022, 03:11:08 (timezone Asia/Manila) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 19 Apr 2022, 04:14:51 (timezone Asia/Manila) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
