@@ -502,9 +502,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="323.75736714779754" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="323.75736714779754" y="0" width="123.52730106671429" height="8" fill="#0060ac"/>
-                    <rect mask="url(#languages-bar)" x="447.28466821451184" y="0" width="12.71533178548814" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="323.61812796689253" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="323.61812796689253" y="0" width="123.67200876374406" height="8" fill="#0060ac"/>
+                    <rect mask="url(#languages-bar)" x="447.29013673063656" y="0" width="12.709863269363412" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -517,7 +517,7 @@
                             </div>
                             <small>
                                 <div>86.7 kB</div>
-                                <div>70.38%</div>
+                                <div>70.35%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -542,8 +542,8 @@
                                 XML
                             </div>
                             <small>
-                                <div>33 kB</div>
-                                <div>26.85%</div>
+                                <div>33.1 kB</div>
+                                <div>26.89%</div>
                             </small>
                         </div>
                     </section>
@@ -1614,7 +1614,7 @@ Can you please verify on your side? Thanks</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Apr 2022, 09:08:02 (timezone Asia/Manila) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 18 Apr 2022, 11:11:39 (timezone Asia/Manila) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
