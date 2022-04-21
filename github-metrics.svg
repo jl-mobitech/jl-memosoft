@@ -502,9 +502,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="246.8874499259178" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="246.8874499259178" y="0" width="147.77654612303132" height="8" fill="#0060ac"/>
-                    <rect mask="url(#languages-bar)" x="394.6639960489491" y="0" width="65.33600395105087" height="8" fill="#ff9900"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="247.00232021106788" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="247.00232021106788" y="0" width="147.69070434587053" height="8" fill="#0060ac"/>
+                    <rect mask="url(#languages-bar)" x="394.69302455693844" y="0" width="65.30697544306159" height="8" fill="#ff9900"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -517,7 +517,7 @@
                             </div>
                             <small>
                                 <div>97.8 kB</div>
-                                <div>53.67%</div>
+                                <div>53.7%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -543,7 +543,7 @@
                             </div>
                             <small>
                                 <div>58.5 kB</div>
-                                <div>32.13%</div>
+                                <div>32.11%</div>
                             </small>
                         </div>
                     </section>
@@ -1562,7 +1562,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Apr 2022, 16:18:31 (timezone Asia/Manila) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 21 Apr 2022, 17:14:34 (timezone Asia/Manila) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
