@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2555" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2575" class="">
     <defs>
         <style/>
     </defs>
@@ -496,15 +496,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 165kb of code in 242 edited files across 19 commits over last 6 days</small>
+                <small>estimation from 166kb of code in 242 edited files across 19 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="398.4945896271772" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="398.4945896271772" y="0" width="49.56826563774237" height="8" fill="#ff9900"/>
-                    <rect mask="url(#languages-bar)" x="448.0628552649196" y="0" width="11.937144735080395" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="398.8077866246859" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="398.8077866246859" y="0" width="49.31585480306379" height="8" fill="#ff9900"/>
+                    <rect mask="url(#languages-bar)" x="448.1236414277497" y="0" width="11.87635857225031" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -516,8 +516,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>142 kB</div>
-                                <div>86.63%</div>
+                                <div>143 kB</div>
+                                <div>86.7%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -529,7 +529,7 @@
                             </div>
                             <small>
                                 <div>4.26 kB</div>
-                                <div>2.6%</div>
+                                <div>2.58%</div>
                             </small>
                         </div>
                     </section>
@@ -543,7 +543,7 @@
                             </div>
                             <small>
                                 <div>17.7 kB</div>
-                                <div>10.78%</div>
+                                <div>10.72%</div>
                             </small>
                         </div>
                     </section>
@@ -1026,7 +1026,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 79.62282438340344%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 79.62227717916019%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">100%</span>
                             </div>
                         </div>
@@ -1582,7 +1582,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 May 2022, 22:13:05 (timezone Asia/Manila) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 22 May 2022, 23:15:15 (timezone Asia/Manila) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
