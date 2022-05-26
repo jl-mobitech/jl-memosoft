@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2616" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2656" class="">
     <defs>
         <style/>
     </defs>
@@ -496,16 +496,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 91.6kb of code in 165 edited files across 21 commits over last 7 days</small>
+                <small>estimation from 93.7kb of code in 165 edited files across 21 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="327.57769440970776" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="327.57769440970776" y="0" width="94.30735028484091" height="8" fill="#ff9900"/>
-                    <rect mask="url(#languages-bar)" x="421.8850446945487" y="0" width="22.711314899726737" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="444.59635959427544" y="0" width="15.403640405724609" height="8" fill="#0060ac"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="330.7635632196897" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="330.7635632196897" y="0" width="92.0384663193699" height="8" fill="#ff9900"/>
+                    <rect mask="url(#languages-bar)" x="422.80202953905956" y="0" width="22.164916999084674" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="444.96694653814427" y="0" width="15.03305346185574" height="8" fill="#0060ac"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -517,8 +517,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>61.5 kB</div>
-                                <div>71.21%</div>
+                                <div>63.6 kB</div>
+                                <div>71.91%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -530,7 +530,7 @@
                             </div>
                             <small>
                                 <div>4.26 kB</div>
-                                <div>4.94%</div>
+                                <div>4.82%</div>
                             </small>
                         </div>
                     </section>
@@ -544,7 +544,7 @@
                             </div>
                             <small>
                                 <div>17.7 kB</div>
-                                <div>20.5%</div>
+                                <div>20.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -556,7 +556,7 @@
                             </div>
                             <small>
                                 <div>2.89 kB</div>
-                                <div>3.35%</div>
+                                <div>3.27%</div>
                             </small>
                         </div>
                     </section>
@@ -1039,7 +1039,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 78.61253889310827%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 78.60977322158887%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">98%</span>
                             </div>
                         </div>
@@ -1610,7 +1610,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 May 2022, 19:12:39 (timezone Asia/Manila) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 26 May 2022, 20:27:52 (timezone Asia/Manila) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
