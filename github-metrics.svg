@@ -502,9 +502,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="373.14090153917977" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="373.14090153917977" y="0" width="74.81292306847358" height="8" fill="#0060ac"/>
-                    <rect mask="url(#languages-bar)" x="447.95382460765336" y="0" width="12.046175392346665" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="373.1417959887" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="373.1417959887" y="0" width="74.81215266693441" height="8" fill="#0060ac"/>
+                    <rect mask="url(#languages-bar)" x="447.9539486556344" y="0" width="12.04605134436561" height="8" fill="#292929"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1026,12 +1026,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 75.28464719139554%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 75.29477729055378%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">94%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Mule</span>
-                                <div class="bar" style="width: 0.14707229629448662%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.14675633755176543%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -2127,7 +2127,7 @@ updates register page</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jun 2022, 09:06:59 (timezone Asia/Manila) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 9 Jun 2022, 11:20:57 (timezone Asia/Manila) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
