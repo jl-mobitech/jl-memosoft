@@ -502,9 +502,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="373.16315341392817" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="373.16315341392817" y="0" width="74.8860888813213" height="8" fill="#0060ac"/>
-                    <rect mask="url(#languages-bar)" x="448.0492422952495" y="0" width="11.950757704750552" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="373.1297247025077" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="373.1297247025077" y="0" width="74.91491702919905" height="8" fill="#0060ac"/>
+                    <rect mask="url(#languages-bar)" x="448.04464173170675" y="0" width="11.955358268293265" height="8" fill="#292929"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -543,7 +543,7 @@
                             </div>
                             <small>
                                 <div>47.8 kB</div>
-                                <div>16.28%</div>
+                                <div>16.29%</div>
                             </small>
                         </div>
                     </section>
@@ -1026,7 +1026,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 74.95895507299123%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 74.95900603536298%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">94%</span>
                             </div>
                         </div>
@@ -1650,7 +1650,7 @@ Deployed MedikTapp to remote Azure Functions</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jun 2022, 06:14:38 (timezone Asia/Manila) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 10 Jun 2022, 07:13:23 (timezone Asia/Manila) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
