@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2555" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2535" class="">
     <defs>
         <style/>
     </defs>
@@ -496,15 +496,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 334kb of code in 298 edited files across 45 commits over last 7 days</small>
+                <small>estimation from 92.1kb of code in 181 edited files across 43 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="380.3802525861047" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="380.3802525861047" y="0" width="68.66558873288676" height="8" fill="#0060ac"/>
-                    <rect mask="url(#languages-bar)" x="449.04584131899145" y="0" width="10.954158681008597" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="424.091218603456" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="424.091218603456" y="0" width="35.90878139654397" height="8" fill="#0060ac"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -516,20 +515,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>264 kB</div>
-                                <div>82.69%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#292929" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                JSON
-                            </div>
-                            <small>
-                                <div>7.63 kB</div>
-                                <div>2.38%</div>
+                                <div>71.7 kB</div>
+                                <div>92.19%</div>
                             </small>
                         </div>
                     </section>
@@ -542,8 +529,8 @@
                                 XML
                             </div>
                             <small>
-                                <div>47.8 kB</div>
-                                <div>14.93%</div>
+                                <div>6.08 kB</div>
+                                <div>7.81%</div>
                             </small>
                         </div>
                     </section>
@@ -1582,7 +1569,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jun 2022, 17:12:25 (timezone Asia/Manila) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 11 Jun 2022, 18:13:37 (timezone Asia/Manila) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
