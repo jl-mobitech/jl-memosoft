@@ -502,8 +502,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="369.73610406260855" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="369.73610406260855" y="0" width="90.2638959373915" height="8" fill="#0060ac"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="369.78429749859845" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="369.78429749859845" y="0" width="90.21570250140154" height="8" fill="#0060ac"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -515,8 +515,8 @@
                                 C#
                             </div>
                             <small>
-                                <div>60.1 kB</div>
-                                <div>80.38%</div>
+                                <div>60.2 kB</div>
+                                <div>80.39%</div>
                             </small>
                         </div>
                     </section>
@@ -530,7 +530,7 @@
                             </div>
                             <small>
                                 <div>14.6 kB</div>
-                                <div>19.62%</div>
+                                <div>19.61%</div>
                             </small>
                         </div>
                     </section>
@@ -1013,7 +1013,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 78.2103997013646%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 78.23113819916094%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">98%</span>
                             </div>
                         </div>
@@ -1751,7 +1751,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jun 2022, 09:11:37 (timezone Asia/Manila) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 15 Jun 2022, 11:36:29 (timezone Asia/Manila) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
