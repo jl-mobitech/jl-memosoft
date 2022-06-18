@@ -496,7 +496,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 54.7kb of code in 157 edited files across 34 commits over last 6 days</small>
+                <small>estimation from 54.6kb of code in 157 edited files across 34 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -514,7 +514,7 @@
                                 C#
                             </div>
                             <small>
-                                <div>52 kB</div>
+                                <div>51.9 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
@@ -945,7 +945,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 77.90206817624458%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 77.90306239173775%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">97%</span>
                             </div>
                         </div>
@@ -1516,7 +1516,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jun 2022, 23:12:57 (timezone Asia/Manila) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 19 Jun 2022, 00:17:19 (timezone Asia/Manila) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
