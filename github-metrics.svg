@@ -502,9 +502,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="305.31231003982185" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="305.31231003982185" y="0" width="135.91596471857983" height="8" fill="#ff9900"/>
-                    <rect mask="url(#languages-bar)" x="441.2282747584017" y="0" width="18.771725241598332" height="8" fill="#0060ac"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="305.2998356130393" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="305.2998356130393" y="0" width="135.9269253435067" height="8" fill="#ff9900"/>
+                    <rect mask="url(#languages-bar)" x="441.226760956546" y="0" width="18.773239043453987" height="8" fill="#0060ac"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -516,7 +516,7 @@
                                 C#
                             </div>
                             <small>
-                                <div>214 kB</div>
+                                <div>213 kB</div>
                                 <div>66.37%</div>
                             </small>
                         </div>
@@ -1582,7 +1582,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jun 2022, 09:17:03 (timezone Asia/Manila) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 27 Jun 2022, 11:47:05 (timezone Asia/Manila) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
