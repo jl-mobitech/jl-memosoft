@@ -496,14 +496,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 210kb of code in 282 edited files across 26 commits over last 7 days</small>
+                <small>estimation from 211kb of code in 283 edited files across 25 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="435.35269117772896" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="435.35269117772896" y="0" width="24.64730882227103" height="8" fill="#0060ac"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="435.37797407038045" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="435.37797407038045" y="0" width="24.622025929619607" height="8" fill="#0060ac"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -516,7 +516,7 @@
                             </div>
                             <small>
                                 <div>199 kB</div>
-                                <div>94.64%</div>
+                                <div>94.65%</div>
                             </small>
                         </div>
                     </section>
@@ -530,7 +530,7 @@
                             </div>
                             <small>
                                 <div>11.2 kB</div>
-                                <div>5.36%</div>
+                                <div>5.35%</div>
                             </small>
                         </div>
                     </section>
@@ -782,7 +782,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 78.88025281438128%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 78.87753994335397%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">99%</span>
                             </div>
                         </div>
@@ -1540,7 +1540,7 @@ Added many features</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jul 2022, 12:32:50 (timezone Asia/Manila) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 5 Jul 2022, 13:18:18 (timezone Asia/Manila) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
