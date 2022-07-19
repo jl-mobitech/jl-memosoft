@@ -496,7 +496,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 131kb of code in 447 edited files across 42 commits over last 7 days</small>
+                <small>estimation from 132kb of code in 447 edited files across 42 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -514,7 +514,7 @@
                                 C#
                             </div>
                             <small>
-                                <div>128 kB</div>
+                                <div>129 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
@@ -769,7 +769,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 79.80101887923284%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 79.80087566724644%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">100%</span>
                             </div>
                         </div>
@@ -1402,7 +1402,7 @@ cc: @Bits001 @bern1101</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jul 2022, 11:55:58 (timezone Asia/Manila) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 19 Jul 2022, 13:06:02 (timezone Asia/Manila) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
