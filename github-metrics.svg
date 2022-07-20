@@ -502,9 +502,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="437.21664660771654" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="437.21664660771654" y="0" width="13.033112187552842" height="8" fill="#0060ac"/>
-                    <rect mask="url(#languages-bar)" x="450.24975879526943" y="0" width="9.750241204730598" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="437.2241225017401" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="437.2241225017401" y="0" width="13.028835636869841" height="8" fill="#0060ac"/>
+                    <rect mask="url(#languages-bar)" x="450.2529581386099" y="0" width="9.747041861390077" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -795,7 +795,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 79.58032563873655%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 79.58290026279988%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">99%</span>
                             </div>
                         </div>
@@ -1449,7 +1449,7 @@ cc: @Bits001 @bern1101</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jul 2022, 16:19:57 (timezone Asia/Manila) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 20 Jul 2022, 17:13:55 (timezone Asia/Manila) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
