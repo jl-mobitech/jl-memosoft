@@ -496,14 +496,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 371kb of code in 235 edited files across 18 commits over last 7 days</small>
+                <small>estimation from 372kb of code in 236 edited files across 18 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.5879517812473" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="449.5879517812473" y="0" width="10.412048218752695" height="8" fill="#0060ac"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.6115303723865" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="449.6115303723865" y="0" width="10.38846962761351" height="8" fill="#0060ac"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -515,7 +515,7 @@
                                 C#
                             </div>
                             <small>
-                                <div>362 kB</div>
+                                <div>363 kB</div>
                                 <div>97.74%</div>
                             </small>
                         </div>
@@ -782,7 +782,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 79.94734632885039%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 79.94731041157021%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">100%</span>
                             </div>
                         </div>
@@ -1614,7 +1614,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jul 2022, 13:30:08 (timezone Asia/Manila) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 27 Jul 2022, 14:17:52 (timezone Asia/Manila) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
