@@ -502,9 +502,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="393.829430396689" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="393.829430396689" y="0" width="33.28581995540021" height="8" fill="#ff9900"/>
-                    <rect mask="url(#languages-bar)" x="427.1152503520893" y="0" width="32.88474964791079" height="8" fill="#0060ac"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="393.85096810766" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="393.85096810766" y="0" width="33.274985828175225" height="8" fill="#ff9900"/>
+                    <rect mask="url(#languages-bar)" x="427.12595393583524" y="0" width="32.87404606416478" height="8" fill="#0060ac"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -543,7 +543,7 @@
                             </div>
                             <small>
                                 <div>66.2 kB</div>
-                                <div>7.24%</div>
+                                <div>7.23%</div>
                             </small>
                         </div>
                     </section>
@@ -795,7 +795,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 79.44235942985986%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 79.43644120061418%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">99%</span>
                             </div>
                         </div>
@@ -1304,7 +1304,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Aug 2022, 22:17:02 (timezone Asia/Manila) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 9 Aug 2022, 23:16:02 (timezone Asia/Manila) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
