@@ -1071,7 +1071,7 @@
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAABlElEQVR4nO2Uv0tCURSAP8OEILSlxqLBCFEQzUFxKMM9/AMaXPoLbAuaghatdtuCAtdocqwGJxEJgkAJMqVBkOQNyoknGvZ81/yxvg/OdM49373n3fvAwsJiSnzAGfAAPAHPingE7oFTYIsZWAKuAZkhOsAFYJ9UttA/kcwZN5MKj4yLHQ6HBINBCYVCI40jkYj4/X6x2+1m0sR/sl3gfXhROByWWq0mOtVqdaRpu93u5SqVini9XmP+FYiYidaBO7PRFIvFXsNOp6MU6jmdfD6vGu8tsDGQHQDfZoU2m0263a5kMhmJxWJKodvtllwuJ/V6fdw3bQN7utAGHAIfZoV6k0ajIaVSSSksFArSarWkXC6rZC/AvnGsy/03pw0Xp1IpGaCLE4nEn9A07TefTCaNohZwDCyOuziXxh3G43HJZrOiIp1OSzQaNTvZySTPYhX4NC72+XxKocvlMpO99ac2EUGj1OPxSLPZNA2n02mUVYBtpmQNuAK+pvi71IBzYIU50G/xJhAAdhQR6L9lCwsLpuYHyEGWMV3DC9sAAAAASUVORK5CYII=" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgFBv/EAC0QAAEDAwIFAgUFAAAAAAAAAAECAwQFBhEAIQcSEzFBFFEiI2FxkTJDgYPB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMB/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAAxESIQT/2gAMAwEAAhEDEQA/AKhmSERIj8l7PTZQpxWB4AydSfEj3ZfcmRXDWpFOLy1ONNtSnR09yAQEkAYGw31VtTaW/TZTTYBW40pAB85GhG36am2oPomJLrchlssrZJxjA3OPrtqN1hQeS3z1Cw+zV4GXPcMqbVbZut31sinIbdjzyfjdbJxhfuQfP50x6K+GFBSzdNQrUd9chlyMmKp5WPmHm5/90qEadbdLpgdeHIh/dnFq0rcQ4l6oiZKT+xD+Yc/f9I/OuJgz6jdEVu6aMwPT1ZSm+hkksuIPTAJHuAD9dSw+4ooPMc/fTHwpit1mw7XZnF1TbV4BhAQ6tOEFrnI2Pugb9+++51S2kMMmV2FDsQ6JxSpFi3BLtS4EOlUdxK1zmE8yQ4pAKklPfbtkZ0qU+97ZnRESI9fpZbX255KEH+QTkahS7pb0y96/IfVzOrnvEn+w6zytQxv401rAGQMxY7P/2Q==" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -1267,7 +1267,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 May 2023, 03:09:12 (timezone Asia/Manila) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 May 2023, 04:11:44 (timezone Asia/Manila) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
