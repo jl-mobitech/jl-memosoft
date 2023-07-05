@@ -496,14 +496,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.29mb of code in 779 edited files across 26 commits over last 7 days</small>
+                <small>estimation from 1.28mb of code in 767 edited files across 24 commits over last 7 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="415.3130631940004" height="8" fill="#F05138"/>
-                    <rect mask="url(#languages-bar)" x="415.3130631940004" y="0" width="44.68693680599966" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="413.9460843971286" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="413.9460843971286" y="0" width="46.0539156028714" height="8" fill="#292929"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -515,8 +515,8 @@
                                 Swift
                             </div>
                             <small>
-                                <div>248 kB</div>
-                                <div>90.29%</div>
+                                <div>240 kB</div>
+                                <div>89.99%</div>
                             </small>
                         </div>
                     </section>
@@ -530,7 +530,7 @@
                             </div>
                             <small>
                                 <div>26.7 kB</div>
-                                <div>9.71%</div>
+                                <div>10.01%</div>
                             </small>
                         </div>
                     </section>
@@ -1406,7 +1406,7 @@ https://github.com/airbnb/HorizonCalendar/pull/127</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jul 2023, 18:14:27 (timezone Asia/Manila) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 5 Jul 2023, 19:11:15 (timezone Asia/Manila) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
