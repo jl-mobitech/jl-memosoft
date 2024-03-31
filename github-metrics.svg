@@ -503,7 +503,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 120kb of code in 116 edited files across 28 commits over last 5 days</small>
+                <small>estimation from 120kb of code in 116 edited files across 28 commits over last 6 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1058,7 +1058,7 @@
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgFBv/EAC0QAAEDAwIFAgUFAAAAAAAAAAECAwQFBhEAIQcSEzFBFFEiI2FxkTJDgYPB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMB/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQIAAxESIQT/2gAMAwEAAhEDEQA/AKhmSERIj8l7PTZQpxWB4AydSfEj3ZfcmRXDWpFOLy1ONNtSnR09yAQEkAYGw31VtTaW/TZTTYBW40pAB85GhG36am2oPomJLrchlssrZJxjA3OPrtqN1hQeS3z1Cw+zV4GXPcMqbVbZut31sinIbdjzyfjdbJxhfuQfP50x6K+GFBSzdNQrUd9chlyMmKp5WPmHm5/90qEadbdLpgdeHIh/dnFq0rcQ4l6oiZKT+xD+Yc/f9I/OuJgz6jdEVu6aMwPT1ZSm+hkksuIPTAJHuAD9dSw+4ooPMc/fTHwpit1mw7XZnF1TbV4BhAQ6tOEFrnI2Pugb9+++51S2kMMmV2FDsQ6JxSpFi3BLtS4EOlUdxK1zmE8yQ4pAKklPfbtkZ0qU+97ZnRESI9fpZbX255KEH+QTkahS7pb0y96/IfVzOrnvEn+w6zytQxv401rAGQMxY7P/2Q==" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcBBAUI/8QALhAAAQIFAgMGBwEAAAAAAAAAAQIDAAQFESEGEhMxUQdBYXGBsRQVIiQyUpGh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABoRAAMAAwEAAAAAAAAAAAAAAAABEQIDEjH/2gAMAwEAAhEDEQA/AOWNirXsdvWG12WdlDGtNOVKqTNWMq8wgql5VLeXbcyT+vdj/IiT0LQnqrLUmSmqrO1Vy9m2eE2L2ufz5YBOendBF8rn9M0VpMpXWiQVAsJUs8O5zxFpIF8jkSIeT0Eq4hL1+jvUibDS1bkqF0qtb0jKuYNdXU6qofW7UW7ywIuttVwD1z6wH2jGgGroJcw3q+tvoQrfKSjx3KVY71uISVk9TvJ8o29ZbWV0ypSrVpaeabeZCTnKLm392+kZSppyl0SqiTCEqmWm0OLIurYCbJB6cvHAzF2RcU1pbSS1HilDo2hz6gBxDjygysKaJ2mVKl95S5+SuFrZlC745vb2hV7IZUssy2oKw2gBSPhgmys44gT7EwBFtNziGZJn/9k=" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -1303,7 +1303,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Mar 2024, 14:13:33 (timezone Asia/Manila) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Mar 2024, 15:11:04 (timezone Asia/Manila) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
